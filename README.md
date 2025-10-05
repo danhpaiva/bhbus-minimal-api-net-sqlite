@@ -1,7 +1,7 @@
 <h1 align="center"> 🖳 BHBus Minimal Api 🖳</h1>
 
 <p align="center">
-    <img src="https://github.com/danhpaiva/todo-api-mvc-net/blob/main/image/screen.png?raw=true" width="600" alt="BHBusApi">
+    <img src="https://github.com/danhpaiva/bhbus-minimal-api-net-sqlite/blob/main/image/screen.png?raw=true" width="600" alt="BHBusApi">
 </p>
 
 <p align="center">
